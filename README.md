@@ -4,7 +4,7 @@ I'm Phil Hickman a Full Stack Web Developer specializing in ASP.NET Core and Rea
 
 - 🔭 I’m currently working on a Temperature Monitoring service.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play guitar and program IoT devices in my spare time.
+- ⚡ Fun fact: I love to program 2D video games in my spare time using Unity.
 
 ### Contact Me
 [![Linked In Profile](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philliprhickman) [![Mail Badge](https://img.shields.io/badge/-Email-0077B5?style=flat&labelColor=black&logo=microsoft-outlook&logoColor=white)](mailto:phillip.r.hickman@outlook.com)
@@ -13,7 +13,7 @@ I'm Phil Hickman a Full Stack Web Developer specializing in ASP.NET Core and Rea
 #### Top Technologies Used
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=239120)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=#5391FE)](#) [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&labelColor=black&logo=electron&logoColor=white)](#)
+[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=239120)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=#5391FE)](#) [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&labelColor=black&logo=electron&logoColor=white)](#) [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)](#) 
 
 ### Languages and Tools
 
@@ -34,6 +34,8 @@ I'm Phil Hickman a Full Stack Web Developer specializing in ASP.NET Core and Rea
 <img align="left" alt="Git" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
 
 <img align="left" alt="Git" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Unity" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
 <br />
 <br />
