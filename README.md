@@ -2,7 +2,9 @@
 
 I'm Phil Hickman a Full Stack Web Developer specializing in ASP.NET Core, C# and Blazor.
 
-- 🔭 I’m currently working on a Temperature Monitoring service.
+I started my professional career in 1997 working as a sub-contractor for a software development company. During my time there, I worked on several large products developed in VB6, Microsoft Access and Citrix Metaframe for some high-profile companies around the US. After I left that company, I began writing software in VB6 for the banking industry and learning to program HMI products using PLCs and microcontrollers. After 8 years in that company, I moved on to my current position as a full-stack Web developer using ASP.NET, WCF, ASP.NET Core, C# and most recently Blazor. I still have a fondness for programming microcontrollers, especially Arduino and Raspberry PI.
+
+- 🔭 I’m currently working on a video course to create a temperature monitoring service using an Arduino and .NET Core 5.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to program 2D video games in my spare time using Unity.
 
