@@ -15,13 +15,11 @@ I started my professional career in 1997 working as a sub-contractor for a softw
 #### Top Technologies Used
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=239120)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=#5391FE)](#) [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&labelColor=black&logo=electron&logoColor=white)](#) [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)](#) 
+[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=239120)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=#5391FE)](#)
 
 ### Languages and Tools
 
 <img align="left" alt="C #" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-
-<img align="left" alt="React" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -36,8 +34,6 @@ I started my professional career in 1997 working as a sub-contractor for a softw
 <img align="left" alt="Git" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
 
 <img align="left" alt="Git" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Unity" width="26px" style="margin-left: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
 <br />
 <br />
