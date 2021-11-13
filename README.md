@@ -11,7 +11,7 @@ I started my professional career in 1997 working as a sub-contractor for a softw
 #### Top Technologies Used
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=239120)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=#5391FE)](#)
+[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=239120)](#) [![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=&link=https://github.com/kkoziarski)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![PowerShell Badge](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=#5391FE)](#)
 
 ### Languages and Tools
 
