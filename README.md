@@ -1,6 +1,6 @@
 ## Hi I'm Phil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Phil Hickman a Full Stack Web Developer specializing in ASP.NET Core, C# and Blazor.
+I'm Phil Hickman a Full Stack Web Developer specializing in ASP.NET Core, C#, SQL Server and PowerShell.
 
 I started my professional career in 1997 working as a sub-contractor for a software development company. During my time there, I worked on several large products developed in VB6, Microsoft Access and Citrix Metaframe for some high-profile companies around the US. After I left that company, I began writing software in VB6 for the banking industry and learning to program HMI products using PLCs and microcontrollers. After 8 years in that company, I moved on to my current position as a full-stack Web developer using ASP.NET, WCF, ASP.NET Core, C# and most recently Blazor. I still have a fondness for programming microcontrollers, especially Arduino and Raspberry PI.
 
